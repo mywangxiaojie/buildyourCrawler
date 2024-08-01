@@ -9,3 +9,39 @@
 
 
 请开始参考学习吧。
+
+
+## 开源项目
+
+- [requests](https://github.com/psf/requests)
+- [BeautifulSoup](https://github.com/benjaminp/soupsieve)
+- [python爬虫教程](https://github.com/wistbean/learn_python3_spider)利用 Scrapy 框架对 Github 用户和仓库信息进行爬取，图片利用管道下载。
+
+
+[LeetCode](https://github.com/ProgramRipper/LeetCodeCN-Problem-Crawler)
+爬取 LeetCode 题目描述，并存储为 markdown 或 txt 文件。支持指定状态、难度和语言的题目描述。
+
+[电子书](https://github.com/xiejava1018/getbooks?tab=readme-ov-file)
+python爬虫爬取电子书
+
+[ Github 用户和仓库信息](https://github.com/KenZP/Github/tree/master)
+利用 Scrapy 框架对 Github 用户和仓库信息进行爬取，图片利用管道下载。
+
+[各大博客爬虫](https://github.com/Adj325/BlogCrawlers/tree/master)
+- 51CTO blog.51cto.com
+- CSDN blog.csdn.net
+- 腾讯云 cloud.tencent.com
+- 博客园 cnblogs.com
+- 阿里云开发者社区 developer.aliyun.com
+- 掘金 juejin.im
+- 微信推文 mp.weixin.qq.com
+- 开源中国 my.oschina.net
+- 思否 segmentfault.com
+- 脚本之家 www.jb51.net
+- 简书 www.jianshu.com
+- 知乎专栏 zhuanlan.zhihu.com
+- 人人都是产品经理 www.woshipm.com
+
+
+[v2ex.com](https://github.com/oldshensheep/v2ex_scrapy)一个爬取v2ex.com网站的爬虫
+
