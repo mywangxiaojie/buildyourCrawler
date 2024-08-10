@@ -45,3 +45,5 @@ python爬虫爬取电子书
 
 [v2ex.com](https://github.com/oldshensheep/v2ex_scrapy)一个爬取v2ex.com网站的爬虫
 
+[知乎与v2ex](https://github.com/h2pl/pyspider)知乎爬虫和v2ex爬虫的实现
+
